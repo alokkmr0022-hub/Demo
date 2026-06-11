@@ -1,2 +1,2 @@
 # Demo
-Author - Alok Kumar
+Author - Alok Singh Rathore
